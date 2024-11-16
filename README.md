@@ -1,5 +1,6 @@
 # Insurance-Cost-Analysis
 perform analytics operations on an insurance database that uses the below mentioned parameters.
+
 Parameter|Description	|Content  | type
 -------------------------------------
 age	     |Age         |in years	|integer
